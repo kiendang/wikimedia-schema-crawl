@@ -1,0 +1,3 @@
+main_url: https://schema.wikimedia.org/repositories/primary/jsonschema/mediawiki
+schema_file: schemas.json
+output_dir: output
